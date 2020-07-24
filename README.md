@@ -1,9 +1,3 @@
-![Jekyll site CI](https://github.com/cristianrubert/cristianrubert.github.io/workflows/Jekyll%20site%20CI/badge.svg)
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 # Personal Website
 
 ## Made by Cristian Rubert
